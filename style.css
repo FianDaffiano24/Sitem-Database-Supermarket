@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: century gothic;
+}
+.badan {
+    background: #5F9EA0;
+    }
+.barang{
+    background: #7CFC00;
+    width: 50%;
+}
+.penjualan{
+    background: #B0C4DE;
+    width: 50%;
+}
+.suplai{
+    background: #FFFACD;
+    width: 50%
+}
+.karyawan{
+    background: #DA70D6;
+    width: 50%
+}
+footer {
+    height: 18px;
+    background-color: #FF4500;
+}
+.tp{
+    background-color: #B22222;
+    width: 15%;
+}
+.tb{
+    background-color: #B22222;
+    width: 15%;
+}
+.ts{
+    background-color: #B22222;
+    width: 15%;
+}
+.tk{
+    background-color: #B22222;
+    width: 15%;
+}
